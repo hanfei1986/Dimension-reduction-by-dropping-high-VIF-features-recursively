@@ -1,4 +1,4 @@
-# Dimension-reduction-by-removing-high-VIF-features-recursively
+# Dimension-reduction-by-dropping-high-VIF-features-recursively
 This Jupyter notebook demonstrates a dimension reduction method by dropping high variance-inflation-factor (VIF) features recursively.
 
 Before dimension reduction:
